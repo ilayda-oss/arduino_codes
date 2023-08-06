@@ -17,10 +17,10 @@ Bu devrede istenilen 10 tane sıralı ledi aralarında farklı delayler olacak �
 ## Project 2
 ### ButtonLed
 Kullanılanlar:
-3 adet Led
-4 adet 220 ohm direnç
-1 adet Button
-Arduino Uno kartı
+- 3 adet Led
+- 4 adet 220 ohm direnç
+- 1 adet Button
+- Arduino Uno kartı
 #### Devre fotoğrafı
 ![IMG_4987-min](https://github.com/ilayda-oss/arduino_codes/assets/78704859/fbdad5f9-4528-4ee2-ad07-bc2b9c4134e6=10x10)
 
@@ -28,3 +28,14 @@ Bu devrede istenilen buttona
 - a) 1. basışta 1. ledin yanması 
 - b) 2. basışta 1. ledin sönüp 2. ledin yanması 
 - c) 3. basışta 2. ledin sönüp 3. ledin yanması ve 4. basışta a maddesine geri dönmesi
+
+## Project 3
+### LDR sensör
+Kullanılanlar:
+- 1 Led
+- 1 220 ohm direnç
+- Işık sensörü
+- Arduino Uno kartı
+
+Bu projede ışık sensörü kullanarak karanlık ortamda ledin yanması, aydınlık ortamda sönmesini sağladık.
+
